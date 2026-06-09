@@ -65,5 +65,11 @@ One challenge was organizing the project so that everything was not inside `main
 
 Another challenge was saving Python objects to a file. This was solved by converting `Student` and `Course` objects into dictionaries before saving them, then converting the dictionaries back into objects when loading data.
 
+## Screenshots
+
+The `screenshots/` folder contains terminal screenshots showing the application running.
+
+- `01_add_student.png`
+- `02_add_course.png`
 
 #
