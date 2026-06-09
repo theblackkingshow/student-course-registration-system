@@ -1,0 +1,8 @@
+[
+    {
+        "course_id": "42554361",
+        "course_name": "software development",
+        "trainer_name": "pebbles",
+        "capacity": 323
+    }
+]

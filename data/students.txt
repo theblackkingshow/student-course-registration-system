@@ -1,0 +1,8 @@
+[
+    {
+        "student_id": "14r45",
+        "name": "James Mwangi",
+        "email": "james@gmail.com",
+        "phone_number": "07371546"
+    }
+]
